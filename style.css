@@ -1,0 +1,23 @@
+body{
+   
+  background-color:lightgray;
+}
+.center{
+  margin:20px auto;
+}
+
+button:hover{
+    cursor:pointer;
+
+
+}
+p{
+   
+   background-color:white;
+   padding:15px 15px 15px 15px;
+   border:solid black 3px;
+   border-radius:7px 7px;
+}
+.spacing{
+    margin-top:20px;
+}
